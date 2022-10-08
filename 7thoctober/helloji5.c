@@ -21,7 +21,7 @@ void main()
 	
 	scanf("%f", &T);
 	
-	SI = P*R*T;
+	SI = (P*R*T)/100;
 	
 	printf("The Simple Interest is : %.2f", SI);
 	
