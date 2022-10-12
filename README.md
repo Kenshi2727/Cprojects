@@ -10,3 +10,5 @@ Can improve the code or give suggestions by opening issues.
 --
 
 Note : All the code has been written by me. 
+
+###Tools used : GCC + VIM 
