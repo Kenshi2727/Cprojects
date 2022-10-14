@@ -2,3 +2,8 @@
 2) WAP to convert the given temperature in centigrate into farenheits.
 3) WAP to swap 2 numbers using temp. variable.
 4) WAP to swap 2 numbers without a seperate variable.
+5) The distance between two cities in kilometres is input through the keyboard.
+
+
+
+WAP to convert and print this distance in metres, feets and inches.
