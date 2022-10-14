@@ -1,0 +1,4 @@
+1) WAP to find average of any five numbers taken as input from keyboard.
+2) WAP to convert the given temperature in centigrate into farenheits.
+3) WAP to swap 2 numbers using temp. variable.
+4) WAP to swap 2 numbers without a seperate variable.
