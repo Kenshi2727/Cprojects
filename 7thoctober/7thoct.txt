@@ -8,4 +8,3 @@
 4. WAP to find perimeter of a rectangle.
 
 5. WAP to find S.I. by using the following variable - P, R, T & S.I.
-
