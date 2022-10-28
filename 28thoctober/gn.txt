@@ -1,5 +1,0 @@
-1) WAP that asks the user to input any number. It should print positive if entered number is positive and negative if the entered number is negative and zero if it is zero.
-
-2) Input two numbers and find greater of them.
-
-3) Input a number and find if it is even or odd.
