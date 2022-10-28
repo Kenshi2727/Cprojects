@@ -1,0 +1,13 @@
+1) WAP that asks the user to input any number. It should print positive if entered number is positive and negative if the entered number is negative and zero if it is zero.
+
+2) Input two numbers and find greater of them.
+
+3) Input a number and find if it is even or odd.
+
+4)  In a company, an employee is paid as under -
+
+    If his basic salary is less than Rs 1500/-, H.R.A is 10% of basic salary and D.A is 90% of the basic salary.
+
+    If his salary is equal to or above 1500/-, H.R.A is Rs 500 and D.A is 98% of his salary.
+
+    If the employee's salary is input through the keyboard, write a program to find his gross salary. 
