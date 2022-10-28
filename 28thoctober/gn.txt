@@ -3,5 +3,3 @@
 2) Input two numbers and find greater of them.
 
 3) Input a number and find if it is even or odd.
-
-4) 
