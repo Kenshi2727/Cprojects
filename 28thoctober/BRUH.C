@@ -13,7 +13,7 @@ int main(void)
   printf("Enter your salary : \n");
   scanf("%f",&a);
 
-  if (a>=1 && a<=1500)
+  if (a>=1 && a<1500)
   {b = (10*a)/100;
   c = (90*a)/100;
   d = a+b+c;
